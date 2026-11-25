@@ -21,6 +21,7 @@ Security Configuration Assessment (SCA).
 3. Install Wazuh using the official all-in-one installation assistant.
 4. Open the dashboard through a local SSH tunnel.
 5. Enroll the Windows agent and verify its first SCA scan.
+   ![Windows agent lab-win-01 active in Wazuh](agent-active.png)
 
 [Official Wazuh quickstart](https://documentation.wazuh.com/current/quickstart.html)
 
