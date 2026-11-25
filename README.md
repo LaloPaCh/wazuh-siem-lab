@@ -50,3 +50,5 @@ the impact of changing it, and rerun the scan after remediation.
 [Endpoint Coverage Check](https://github.com/LaloPaCh/endpoint-coverage-check)
 uses Python to compare an asset inventory with monitoring records.
 Collecting agent status directly from the Wazuh API is a planned extension.
+
+![Initial Wazuh SCA results for lab-win-01](sca-baseline.png)
